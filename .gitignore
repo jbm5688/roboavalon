@@ -1,0 +1,57 @@
+# Arquivos compilados Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Diretórios e arquivos temporários do sistema
+.DS_Store
+Thumbs.db
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+*.bak
+
+# Configurações do editor e IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Arquivos de ambiente virtual
+venv/
+env/
+ENV/
+.venv/
+
+# Arquivos de build e distribuição
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Arquivos de cache do pip
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Arquivos de configuração do pytest
+.cache/
+
+# Arquivos de configurações pessoais, chaves ou senhas
+*.env
+.env
+
+# Arquivos do sistema operacional Windows
+*.exe
+*.dll
+*.pdb
+
+# Arquivos do sistema operacional macOS
+*.DS_Store
+
+# Arquivos do sistema operacional Linux
+*~
+
+# Outros arquivos que podem ser ignorados
+*.sqlite3
+*.db
